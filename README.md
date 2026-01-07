@@ -7,7 +7,7 @@ constant-time lookups and includes input validation, duplicate handling, and
 a menu-driven console interface.
 
 This project demonstrates strong fundamentals in Data Structures, Java, and
-problem-solving, making it suitable for SDE internship roles.
+problem-solvings.
 
 ---
 
